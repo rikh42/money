@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/rikh42/money.png?branch=master)](https://travis-ci.org/rikh42/money)
 
 # Money
 
